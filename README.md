@@ -5,4 +5,4 @@ Necesitas instalar python 3.7.0
 <br>
 <br>
 
-Al ingresar el nombre o el ID del usuario de xat.com descargas el avatar de su perfil en una carpeta
+Al ingresar el nombre o el ID del usuario de xat.com descargaras el avatar de su perfil en una carpeta
